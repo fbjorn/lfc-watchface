@@ -1,0 +1,4 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="Liverpool" filename="liverpool-red-logo.png" />
+</drawables>

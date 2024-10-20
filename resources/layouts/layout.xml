@@ -1,0 +1,46 @@
+<layout id="WatchFace">
+    <drawable class="Background" />
+    <bitmap id="Liverpool" x="42%" y="2%" filename="../drawables/liverpool-red-logo.png" />
+    <label 
+        id="DateLabel"
+        x="50%"
+        y="30%"
+        font="@Fonts.Date"
+        justification="Graphics.TEXT_JUSTIFY_CENTER"
+        color="Graphics.COLOR_RED"
+    />
+    <label
+        id="TimeLabel"
+        x="center"
+        y="center"
+        font="@Fonts.Time"
+        justification="Graphics.TEXT_JUSTIFY_CENTER"
+        color="Graphics.COLOR_WHITE"
+    />
+    <label
+        id="SecondsLabel"
+        x="84%"
+        y="center"
+        font="@Fonts.Seconds"
+        justification="Graphics.TEXT_JUSTIFY_RIGHT"
+        color="Graphics.COLOR_WHITE"
+    />
+    <label
+        id="FuelE"
+        x="40%"
+        y="75%"
+        text="E"
+        font="@Fonts.Fuel"
+        justification="Graphics.TEXT_JUSTIFY_RIGHT"
+        color="Graphics.COLOR_WHITE"
+    />
+    <label
+        id="FuelF"
+        x="63%"
+        y="75%"
+        text="F"
+        font="@Fonts.Fuel"
+        justification="Graphics.TEXT_JUSTIFY_RIGHT"
+        color="Graphics.COLOR_WHITE"
+    />
+</layout>

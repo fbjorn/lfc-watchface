@@ -1,0 +1,6 @@
+<fonts>
+    <font id="Time" antialias="true"  filename="fonts/time.fnt" />
+    <font id="Seconds" antialias="true"  filename="fonts/seconds.fnt" />
+    <font id="Date" antialias="true"  filename="fonts/date.fnt" />
+    <font id="Fuel" antialias="true"  filename="fonts/fuel.fnt" />
+</fonts>
