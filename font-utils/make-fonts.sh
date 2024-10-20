@@ -8,7 +8,7 @@ fontbm \
     --output "../resources/fonts/time" \
     --chars 32 \
     --chars-file ./digits.txt \
-    --font-size 86 \
+    --font-size 112 \
     --color 255,255,255 \
     --background-color 0,0,0
 
@@ -28,7 +28,7 @@ fontbm \
     --output "../resources/fonts/date" \
     --chars 32 \
     --chars-file ./date.txt \
-    --font-size 36 \
+    --font-size 46 \
     --color 255,0,0 \
     --background-color 0,0,0
 
